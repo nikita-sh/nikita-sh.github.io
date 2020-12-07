@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nikitash.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2020-12-06T17:44:38-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikitash.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-12-06T17:40:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikitash.github.io/post/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
     <lastmod>2020-12-06T17:39:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikitash.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-06T17:39:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikitash.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-06T17:39:18-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikitash.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://nikitash.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

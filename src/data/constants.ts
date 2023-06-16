@@ -16,7 +16,7 @@ export const MENU_LINKS = [
 // ! Remember to add your own socials
 export const SOCIAL_LINKS = {
 	github: "https://github.com/nikita-sh",
-	twitter: "https://github.com/nikita-sh",
+	twitter: "https://twitter.com/nktash_",
 	discord: "https://discord.com/users/310425623518642176",
 	email: "shumeiko.nikita@gmail.com",
 };

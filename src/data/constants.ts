@@ -1,14 +1,14 @@
 export const MENU_LINKS = [
 	{
-		title: "Home",
+		title: "home",
 		path: "/",
 	},
 	{
-		title: "About",
+		title: "about",
 		path: "/about/",
 	},
 	{
-		title: "Blog",
+		title: "blog",
 		path: "/posts/",
 	},
 ];
@@ -17,6 +17,6 @@ export const MENU_LINKS = [
 export const SOCIAL_LINKS = {
 	github: "https://github.com/nikita-sh",
 	twitter: "https://github.com/nikita-sh",
-	discord: "https://github.com/chrismwilliams/astro-cactus",
-	email: "me@example.com",
+	discord: "https://discord.com/users/310425623518642176",
+	email: "shumeiko.nikita@gmail.com",
 };

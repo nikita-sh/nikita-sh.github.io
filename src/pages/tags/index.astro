@@ -7,13 +7,13 @@ const allPosts = await getCollection("post");
 const allTags = getUniqueTagsWithCount(allPosts);
 
 const meta = {
-	title: "All Tags",
-	description: "All Tags from my blogs",
+	title: "all tags",
+	description: "all tags from my blogs",
 };
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">Tags</h1>
+	<h1 class="title mb-6">tags</h1>
 	<ul class="space-y-4">
 		{
 			Object.entries(allTags).map(([tag, val]) => (
